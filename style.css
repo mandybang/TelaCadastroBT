@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+}
+
+.form-container {
+    max-width: 600px;
+    padding: 2rem;
+}
+
+.form-check {
+    margin-bottom: 0.5rem;
+}
